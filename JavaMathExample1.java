@@ -4,7 +4,7 @@ public class JavaMathExample1
     {    
         double x = 28;    
         double y = 4;   
-        double a = 30;
+        double a = 30:
 
         // converting values to radian 
         double b = Math.toRadians(a);
