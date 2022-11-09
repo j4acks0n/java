@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm jacks'0n</h1>
-<h2 align="middle"> i'm 15 y.o
+<h2 align="middle"> i'm 12 y.o
 <h3 align="center">A CoderS from Asia</h3>
 
 - 🌱 I’m interested in **java&python**
