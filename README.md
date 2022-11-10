@@ -8,7 +8,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-generator/master/src/images/icons/Social/kaggle.svg" alt="jack0o" height="30" width="40" /></a>
 <a href="https://www.behance.net/jacob0o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="jacob0o" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/j" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="j" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/jack 0o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="jack 0o" height="30" width="40" /></a>
