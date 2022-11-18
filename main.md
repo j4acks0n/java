@@ -12,7 +12,6 @@
 <a href="https://kaggle.com/jack0o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jack0o" height="30" width="40" /></a>
 <a href="https://www.behance.net/jacob0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="jacob0" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/jack 0o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="jack 0o" height="30" width="40" /></a>
-<a href="https://discord.gg/1026499309551767594" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1026499309551767594" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
